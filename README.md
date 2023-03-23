@@ -34,11 +34,11 @@
     -   Logo (minimum 100×100)
     -   Website
  4.  Employees Table: The Employees table should have the following fields:
-    -   First name (required)
-    -   Last name (required)
-    -   Company (foreign key to Companies)
-    -   Email
-    -   Phone
+    -   First name (required)<br>
+    -   Last name (required)<br>
+    -   Company (foreign key to Companies)<br>
+    -   Email<br>
+    -   Phone<br>
 5.  Database Migrations
 6.  Company Logos: stored in the `storage/app/public` folder and made accessible from the public. This means that the application should create a symbolic link 
     between `public/storage` and `storage/app/public`.
