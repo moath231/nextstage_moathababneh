@@ -1,6 +1,7 @@
 ## Prerequisites
 
 - PHP 7.4 or higher
+- laravel v 8.0
 - Composer
 - MySQL
 
